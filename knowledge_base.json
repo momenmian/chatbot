@@ -1,5 +1,20 @@
 {
-    "questions" : [
-        
-    ]
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hello. there!"
+    },
+    {
+      "question": "Hey",
+      "answer": "Hello, there!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello, there!"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello, there!"
+    }
+  ]
 }
