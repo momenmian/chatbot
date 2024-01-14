@@ -19,6 +19,10 @@
     {
       "question": "How are you?",
       "answer": "Fine, how can I assist you?"
+    },
+    {
+      "question": "What's the capital of Bangladesh?",
+      "answer": "Dhaka"
     }
   ]
 }
