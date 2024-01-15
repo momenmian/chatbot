@@ -23,6 +23,10 @@
     {
       "question": "What's the capital of Bangladesh?",
       "answer": "Dhaka"
+    },
+    {
+      "question": "What's your name?",
+      "answer": "I am a ChatBot, buily by Momen."
     }
   ]
 }
