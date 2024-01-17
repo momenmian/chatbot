@@ -27,6 +27,10 @@
     {
       "question": "What's your name?",
       "answer": "I am a ChatBot, buily by Momen."
+    },
+    {
+      "question": "I love you",
+      "answer": "Thank you, it's my pleasure."
     }
   ]
 }
