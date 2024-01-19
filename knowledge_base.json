@@ -31,6 +31,10 @@
     {
       "question": "I love you",
       "answer": "Thank you, it's my pleasure."
+    },
+    {
+      "question": "Can you help me?",
+      "answer": "Yes, I can help you. What do you want to know?"
     }
   ]
 }
